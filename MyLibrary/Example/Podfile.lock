@@ -1,0 +1,48 @@
+PODS:
+  - DateTools (1.6.1)
+  - DZNEmptyDataSet (1.5.2)
+  - IQKeyboardManager (3.2.4)
+  - JSONModel (1.1.0)
+  - Kiwi (2.3.1)
+  - Masonry (0.6.1)
+  - MJRefresh (2.0.4)
+  - MyLibrary (0.1.0):
+    - DateTools
+    - DZNEmptyDataSet
+    - IQKeyboardManager
+    - JSONModel
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - SZTextView
+    - UITableView+FDTemplateLayoutCell
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SZTextView (1.2.1)
+  - UITableView+FDTemplateLayoutCell (1.3)
+
+DEPENDENCIES:
+  - Kiwi
+  - MyLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MyLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DateTools: 9bcc89e4f2f9004d8a7a2bd1b49269cf78968e65
+  DZNEmptyDataSet: 741da409081a4bf707c949c964623a6ad1799772
+  IQKeyboardManager: 555b1231fefafb21b19278d7cca72986a27b748b
+  JSONModel: ec77e9865236a7a09d9cf7668df6b4b328d9ec1d
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  MJRefresh: ea153717001d3c02444bd22b75c111d2937d2104
+  MyLibrary: 0271f6ca1d69a4e4f98b38217f0afc41610b156b
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+  UITableView+FDTemplateLayoutCell: d5be6056b5060313f5955a2590ecd33142ad713d
+
+PODFILE CHECKSUM: c8b7867c3db8da2663d7ee58a0b9e2a455b3a397
+
+COCOAPODS: 1.1.1

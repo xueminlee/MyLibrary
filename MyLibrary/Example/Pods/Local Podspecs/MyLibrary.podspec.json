@@ -1,0 +1,97 @@
+{
+  "name": "MyLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xueminlee/MyLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lixuemin": "lixuemin@zbj.com"
+  },
+  "source": {
+    "git": "https://github.com/xueminlee/MyLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyLibrary/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "ZBJBPrivateFreeStreamer": [
+
+    ],
+    "JSONModel": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "IQKeyboardManager": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "Qiniu": [
+      "~>7.1"
+    ],
+    "SDWebImage": [
+
+    ],
+    "DateTools": [
+
+    ],
+    "DZNEmptyDataSet": [
+
+    ],
+    "SZTextView": [
+
+    ],
+    "UITableView+FDTemplateLayoutCell": [
+
+    ],
+    "LamMP3Encoder": [
+
+    ],
+    "ShareSDK3": [
+
+    ],
+    "MOBFoundation": [
+      "~>2.0.11"
+    ],
+    "ShareSDK3/ShareSDKPlatforms/QQ": [
+
+    ],
+    "ShareSDK3/ShareSDKPlatforms/SinaWeibo": [
+
+    ],
+    "ShareSDK3/ShareSDKPlatforms/WeChat": [
+
+    ],
+    "ShareSDK3/ShareSDKPlatforms/Messenger": [
+
+    ],
+    "TalkingData-AdTracking": [
+
+    ],
+    "TalkingData-AppAnalytics": [
+
+    ],
+    "AlipaySDK-Vendor": [
+
+    ],
+    "ZBJClickStatistic": [
+
+    ],
+    "ZBJAppDevelopKit": [
+
+    ]
+  }
+}
